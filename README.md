@@ -1,6 +1,7 @@
 # flutter_file_downloading
 
-(https://user-images.githubusercontent.com/16588377/74441033-23722c00-4e95-11ea-9ab6-54fbd9ebada9.png)
+
+![1](https://user-images.githubusercontent.com/16588377/74441033-23722c00-4e95-11ea-9ab6-54fbd9ebada9.png)
 
 A new Flutter application to download files and store them into phone storage.
 Don't forget to star the repo.
